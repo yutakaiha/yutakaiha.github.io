@@ -1,4 +1,4 @@
-users = ["yutaka","chiaki","junn","tsubasa","tasuku","naomi"]
+ezusers = ["yutaka","chiaki","junn","tsubasa","tasuku","naomi"]
 
 #shuffleメソッド　配列の要素をランダムに並べ替える
 users.shuffle!
@@ -30,3 +30,5 @@ team_b.each do |user|
 end
 
 puts text
+
+puts "コロナウイルス最悪"
