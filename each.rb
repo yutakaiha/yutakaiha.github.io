@@ -1,4 +1,4 @@
-ezusers = ["yutaka","chiaki","junn","tsubasa","tasuku","naomi"]
+users = ["yutaka","chiaki","junn","tsubasa","tasuku","naomi"]
 
 #shuffleメソッド　配列の要素をランダムに並べ替える
 users.shuffle!
@@ -31,4 +31,4 @@ end
 
 puts text
 
-puts "コロナウイルス最悪"
+puts "今日からフットサル再開"
